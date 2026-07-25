@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[26681,["/the-last-dynasty/_next/static/chunks/0_p5rf5o1.u3w.js"],"default"]
-3:I[5106,["/the-last-dynasty/_next/static/chunks/0_p5rf5o1.u3w.js"],"default"]
+2:I[18406,["/the-last-dynasty/_next/static/chunks/0814ns72s54w9.js"],"default"]
+3:I[9930,["/the-last-dynasty/_next/static/chunks/0814ns72s54w9.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"WcW1esyxWgmlUHZOrdwIn"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"eM6tOyXCs9J6AXJSvoGNN"}
